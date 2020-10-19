@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603089439 source:/home/ahmedessam/Ahmed Essam Projects/testsfml/main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
